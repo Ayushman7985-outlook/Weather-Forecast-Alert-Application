@@ -1,0 +1,4 @@
+kind,severity,when,message
+RAIN,WARNING,Tue 24 Nov 06:00,Rain likely: 77% chance [4 forecast slots affected]
+HEAT,WARNING,Tue 24 Nov 15:00,Heat expected: 38.1°C [2 forecast slots affected]
+RAIN,INFO,Now,It is raining now (moderate rain). Carry an umbrella.

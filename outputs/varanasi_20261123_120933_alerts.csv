@@ -1,0 +1,3 @@
+kind,severity,when,message
+RAIN,WARNING,Tue 24 Nov 12:00,Rain likely: 77% chance [4 forecast slots affected]
+RAIN,INFO,Now,It is raining now (moderate rain). Carry an umbrella.

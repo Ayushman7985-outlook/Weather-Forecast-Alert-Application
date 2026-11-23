@@ -1,0 +1,19 @@
+{
+  "city": "Mumbai",
+  "country": "IN",
+  "lat": 19.08,
+  "lon": 72.88,
+  "temp_c": 28.3,
+  "feels_like_c": 30.1,
+  "humidity_pct": 95.0,
+  "pressure_hpa": 1000,
+  "wind_ms": 17.3,
+  "condition": "Thunderstorm",
+  "description": "thunderstorm with heavy rain",
+  "rain_mm": 22.9,
+  "aqi": {
+    "aqi": 1,
+    "label": "Good",
+    "pm2_5": 35.3
+  }
+}

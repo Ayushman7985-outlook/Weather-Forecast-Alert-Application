@@ -1,0 +1,19 @@
+{
+  "city": "Delhi",
+  "country": "IN",
+  "lat": 28.61,
+  "lon": 77.21,
+  "temp_c": 46.2,
+  "feels_like_c": 45.2,
+  "humidity_pct": 27.0,
+  "pressure_hpa": 1002,
+  "wind_ms": 5.7,
+  "condition": "Clear",
+  "description": "clear sky",
+  "rain_mm": 0.0,
+  "aqi": {
+    "aqi": 1,
+    "label": "Good",
+    "pm2_5": 32.5
+  }
+}

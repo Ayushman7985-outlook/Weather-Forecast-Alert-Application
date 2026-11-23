@@ -1,0 +1,30 @@
+==============================================================
+ WEATHER FORECAST & ALERT REPORT - Varanasi, IN
+ Mode: SIMULATION   Generated: 2026-11-23 12:09
+==============================================================
+
+CURRENT WEATHER
+  Condition   : Rain (moderate rain)
+  Temperature : 33.5°C (feels like 34.0°C)
+  Humidity    : 60%
+  Wind        : 3.4 m/s
+  Air Quality : Moderate (AQI 3/5)
+
+FORECAST SUMMARY (next 5 days)
+  Hottest     : 37.5°C on Mon 23 Nov 15:00
+  Coldest     : 22.0°C
+  Avg temp    : 29.8°C   Avg humidity: 59.7%
+  Total rain  : 14.7 mm   Max wind: 6.5 m/s
+
+  Date        Min   Max  Hum%  Rain%  Rain mm  Condition
+  2026-11-23   29.3  37.5   53      7      0.0  Clear
+  2026-11-24   22.1  35.8   61     77      3.7  Clear
+  2026-11-25   24.1  37.0   59     71      1.3  Clouds
+  2026-11-26   23.4  35.6   59     89      5.8  Clear
+  2026-11-27   23.0  36.0   60     64      3.9  Clouds
+  2026-11-28   22.0  35.3   64      6      0.0  Clear
+
+ALERTS (2)
+  [WARNING ] RAIN     Tue 24 Nov 12:00: Rain likely: 77% chance [4 forecast slots affected]
+  [INFO    ] RAIN     Now: It is raining now (moderate rain). Carry an umbrella.
+==============================================================

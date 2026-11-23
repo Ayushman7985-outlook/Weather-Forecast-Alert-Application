@@ -1,0 +1,7 @@
+date,min_temp_c,max_temp_c,avg_temp_c,avg_humidity_pct,max_wind_ms,max_rain_prob_pct,total_rain_mm,main_condition
+2026-11-23,30.1,32.5,31.2,94.0,19.7,94,73.6,Thunderstorm
+2026-11-24,26.0,34.5,29.6,90.0,17.2,98,97.1,Rain
+2026-11-25,27.1,33.9,30.5,89.0,19.1,99,115.7,Rain
+2026-11-26,25.9,31.9,29.4,91.0,19.6,99,105.2,Rain
+2026-11-27,28.3,34.1,30.8,90.0,18.7,99,137.6,Thunderstorm
+2026-11-28,27.0,27.6,27.3,92.0,17.1,91,46.7,Thunderstorm
